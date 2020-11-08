@@ -20,6 +20,9 @@ MySecondTest
     
 MythirdTest
     Log    Hello World three... 
+    
+MyfourthTest
+    Log    Hello World Four... 
    
 
 # FirstSeleniumTest
